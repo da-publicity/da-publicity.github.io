@@ -7,9 +7,9 @@ navigation: footer
 ---
 
 ### Angaben gemäß § 5 TMG:
-Altenburger PR 
-Donate Altenburger 
-Selchower Str. 20 
+Altenburger PR  
+Donate Altenburger   
+Selchower Str. 20   
 D-12049 Berlin
 
 ### Kontakt:
