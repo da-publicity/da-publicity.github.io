@@ -10,7 +10,7 @@ navigation: footer
 Altenburger PR  
 Donate Altenburger   
 Selchower Str. 20   
-D-12049 Berlin
+_D-12049 Berlin_
 
 ### Kontakt:
 Telefon: +49 176 23562225  
