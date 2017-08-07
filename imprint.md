@@ -10,11 +10,11 @@ navigation: footer
 Altenburger PR  
 Donate Altenburger   
 Selchower Str. 20   
-_D-12049 Berlin_
+** D-12049 Berlin **
 
 ### Kontakt:
 Telefon: +49 176 23562225  
-E-Mail: hp+mail@altenburger-pr.de
+E-Mail: hp+mail@altenburger-pr.de  
 
 ### Umsatzsteuer-ID:
 Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:   
