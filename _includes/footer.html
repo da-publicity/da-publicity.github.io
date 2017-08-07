@@ -7,10 +7,10 @@
    
 </footer>
 
-<div id="legal" class="measure" style="font-size: 0.7em; color: gray; text-decoration: none; background-image: none;">
+<div id="legal" class="measure">
 {% for page in site.pages %}
   {% if page.navigation contains "footer" %}
-    <a href="{{ page.url }}">{{ page.title }}</a>
+    <a style="font-size: 0.7em; color: gray; text-decoration: none; background-image: none;" href="{{ page.url }}">{{ page.title }}</a>
   {% endif %}
 {% endfor %}
   </div>  
