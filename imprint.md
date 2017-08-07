@@ -1,22 +1,22 @@
 ---
 layout: page
-title: Imprint / Impressum
+title: Imprint/Impressum
 permalink: /imprint/
 tags: imprint
 navigation: footer
 ---
 
-### Angaben gemäß § 5 TMG:
+### Angaben gemäß § 5 TMG
 Altenburger PR  
 Donate Altenburger   
 Selchower Str. 20   
-** D-12049 Berlin **
+D-12049 Berlin
 
-### Kontakt:
+### Kontakt
 Telefon: +49 176 23562225  
 E-Mail: hp+mail@altenburger-pr.de  
 
-### Umsatzsteuer-ID:
+### Umsatzsteuer-ID
 Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:   
 beantragt
 
