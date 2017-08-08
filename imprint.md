@@ -3,7 +3,7 @@ layout: page
 title: Imprint/Impressum
 permalink: /imprint/
 tags: imprint
-navigation: footer
+navigation: top
 meta_robots: noindex
 ---
 
