@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imprint/Impressum
+title: Imprint
 permalink: /imprint/
 tags: imprint
 navigation: top
