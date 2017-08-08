@@ -69,7 +69,7 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: false
 share_twitter: true
@@ -127,9 +127,9 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-titles-from-headings
-  - jekyll-optional-front-matter
-  - jekyll-default-layout
-  - jekyll-admin
+#  - jekyll-titles-from-headings
+#  - jekyll-optional-front-matter
+#  - jekyll-default-layout
+#  - jekyll-admin
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
