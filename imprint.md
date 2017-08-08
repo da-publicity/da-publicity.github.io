@@ -4,6 +4,7 @@ title: Imprint/Impressum
 permalink: /imprint/
 tags: imprint
 navigation: footer
+meta_robots: noindex
 ---
 
 ### Angaben gemäß § 5 TMG
