@@ -3,7 +3,6 @@ layout: page
 title: Imprint
 permalink: /imprint/
 tags: imprint
-navigation: footer
 meta_robots: noindex
 ---
 
