@@ -126,5 +126,9 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-admin
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
