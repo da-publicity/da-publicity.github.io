@@ -1,16 +1,8 @@
-<div id="legal" class="center">
-{% for page in site.pages %}
-  {% if page.navigation contains "footer" %}
-    <a style="font-size: 0.75rem; color: #7a7a7a; text-decoration: none; background-image: none; float:right;" href="{{ page.url }}">{{ page.title }}</a>
-  {% endif %}
-{% endfor %}
-  </div>  
-
 <footer class="center">
 
   <div class="measure">
     <figure><a href="{{ site.baseurl }}/{{ site.vcard }}" style="background-image: none;"><img class="qrcode" src="{{ site.qrcard }}" width="75" height="75" alt="{{ site.vcard_message }}" /></a>
-      <figcaption style="text-align:center;"> vCard 2.1 </figcaption>
+      <figcaption style="text-align:center;"> vCard 2.1 / <a href="{{ site.baseurl }}/imprint/">Imprint</a></figcaption>
     </figure>
    
 </footer>
