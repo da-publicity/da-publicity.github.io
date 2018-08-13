@@ -16,10 +16,6 @@ D-12049 Berlin
 Telefon: +49 176 23562225  
 E-Mail: hp+mail@altenburger-pr.de  
 
-### Umsatzsteuer-ID
-Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:   
-beantragt
-
 ## Haftungsausschluss (Disclaimer)
 ### Haftung für Inhalte
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.  
