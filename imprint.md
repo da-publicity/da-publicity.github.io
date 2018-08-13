@@ -14,7 +14,7 @@ D-12049 Berlin
 
 ### Kontakt
 Telefon: +49 176 23562225  
-E-Mail: hp+mail@altenburger-pr.de  
+E-Mail: {{ site.email }}  
 
 ## Haftungsausschluss (Disclaimer)
 ### Haftung für Inhalte
