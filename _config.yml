@@ -1,6 +1,6 @@
 # Site settings
 title:       Altenburger PR
-email:       
+email:       da-publicity@users.noreply.github.com
 author:      Donate Altenburger
 name:        Donate Altenburger
 profession:  PR
@@ -16,7 +16,7 @@ avatar:      "images/me.jpeg"
 
 description: "Berlin based freelance public relations and social media manager specialized in literature and music suitable for children."
 baseurl:     ""
-url:         "http://altenburger-pr.de"
+url:         "https://altenburger-pr.de"
 date_format: "%Y-%m-%d" 
 
 # Google services
