@@ -14,7 +14,7 @@ meta_robots: noindex
 
 ### Kontakt
 Telefon: {{ site.phone }}  
-(E-Mail)[/contact/]
+[E-Mail](/contact/)
 
 ## Haftungsausschluss (Disclaimer)
 ### Haftung für Inhalte
