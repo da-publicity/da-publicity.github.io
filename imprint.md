@@ -9,12 +9,12 @@ meta_robots: noindex
 ### Angaben gemäß § 5 TMG
 {{ site.title }}  
 {{ site.author }}  
-{{ site.street+nr }}  
-{{ site.zip+city}} 
+{{ site.streetandnumber }}  
+{{ site.zipandcity}} 
 
 ### Kontakt
-Telefon: {{ site.phone }}
-E-Mail: {{ site.email }}  
+Telefon: {{ site.phone }}  
+(E-Mail)[/contact/]
 
 ## Haftungsausschluss (Disclaimer)
 ### Haftung für Inhalte
