@@ -7,8 +7,8 @@ meta_robots: noindex
 ---
 
 ### Angaben gemäß § 5 TMG
-{{ site.company }}  
-{{ site.owner }}  
+{{ site.title }}  
+{{ site.author }}  
 {{ site.street+nr }}  
 {{ site.zip+city}} 
 
