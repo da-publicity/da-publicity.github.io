@@ -13,7 +13,7 @@ Selchower Str. 20
 D-12049 Berlin
 
 ### Kontakt
-Telefon: +49 176 23562225  
+Telefon: {{ site.phone }}
 E-Mail: {{ site.email }}  
 
 ## Haftungsausschluss (Disclaimer)
