@@ -128,6 +128,7 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from  
 #  - jekyll-titles-from-headings
 #  - jekyll-optional-front-matter
 #  - jekyll-default-layout
